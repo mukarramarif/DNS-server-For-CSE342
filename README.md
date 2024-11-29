@@ -1,5 +1,4 @@
-* CSE 342 Programming Assignment 1
-* By Muhammad Mukarram Arif
+
 # make sure to install dnslib
 ```
 pip install dnslib
